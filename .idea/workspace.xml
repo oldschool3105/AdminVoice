@@ -27,21 +27,21 @@
         </entry>
       </file>
       <file leaf-file-name="FirstTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/AdminPanel/FirstTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/AdminPane/FirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#787#788#0" expanded="true" />
-                <element signature="e#826#827#0" expanded="true" />
+                <element signature="e#783#784#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="FirstTest copy.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/AdminPanel/FirstTest copy.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/AdminPane/FirstTest copy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
               <caret line="45" column="14" lean-forward="false" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
@@ -73,6 +73,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ru/AdminPanel/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/AdminPanel/FirstTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AdminPane/FirstTest copy.java" />
       </list>
     </option>
   </component>
@@ -141,7 +142,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AdminPanel" type="462c0819:PsiDirectoryNode" />
+              <item name="AdminPane" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -323,7 +324,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509441930296</updated>
-      <workItem from="1509441931576" duration="25649000" />
+      <workItem from="1509441931576" duration="25909000" />
     </task>
     <servers />
   </component>
@@ -360,7 +361,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25649000" />
+    <option name="totallyTimeSpent" value="25909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1495" height="963" extended-state="0" />
@@ -375,10 +376,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4298541" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27946126" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27946126" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24949832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24949832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -460,19 +461,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/AdminPanel/FirstTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/AdminPane/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#787#788#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/AdminPanel/FirstTest copy.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/AdminPane/FirstTest copy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="45" column="14" lean-forward="false" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
